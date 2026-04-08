@@ -48,4 +48,4 @@ VITE_TENANT_ID=your-tenant-id
 3. `npm run dev`
 
 ---
-*Created for technical demonstration purposes.*
+*Created for technical demonstration purposes and drafted with AI.*
