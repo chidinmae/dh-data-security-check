@@ -1,0 +1,9 @@
+/* Component-specific overrides can go here */
+.user-profile {
+  cursor: pointer;
+}
+
+[disabled] {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
